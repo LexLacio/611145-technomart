@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Александр Лацинов](https://up.htmlacademy.ru/htmlcss/20/user/611145).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Гурьев](https://htmlacademy.ru/profile/danakishi).
 
 ---
 
